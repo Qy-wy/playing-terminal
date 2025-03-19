@@ -6,5 +6,5 @@ import (
 
 func main() {
 logger := logrus.New()
-logger.Info("Hello world")
+logger.Info("Hi")
 }
